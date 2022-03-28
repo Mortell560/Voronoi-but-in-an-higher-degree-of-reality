@@ -1,0 +1,12 @@
+
+.vs/Voronoi-but-in-an-higher-degree-of-reality/v17/.suo
+.vs/slnx.sqlite
+*.db
+Voronoi/.vs/Voronoi/v17/.suo
+*.ipch
+*.db-wal
+*.db-shm
+*.opendb
+*.tlog
+*.log
+*.ilk
