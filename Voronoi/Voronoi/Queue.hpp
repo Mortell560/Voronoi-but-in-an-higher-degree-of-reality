@@ -37,7 +37,7 @@ namespace fl {
 		void display() {
 			for (T var : queue)
 			{
-				std::cout << var;
+				std::cout << var << " ";
 			}
 			std::cout << "\n";
 		}
